@@ -107,6 +107,22 @@
                                         | via GET /jobs/:id      |
                                         | Status: completed      |
                                         +------------------------+
+Screenshots:
+
+![Screenshot from 2024-07-08 11-22-39](https://github.com/DakshDudeja/scheduler_microservice/assets/61489137/bf4e8d97-1d5f-4819-a9c6-df77661f4e70)
+
+![Screenshot from 2024-07-08 11-22-34](https://github.com/DakshDudeja/scheduler_microservice/assets/61489137/787a763a-bf59-4518-b4f2-0723950fc755)
+![Screenshot from 2024-07-08 11-21-45](https://github.com/DakshDudeja/scheduler_microservice/assets/61489137/66c4b882-413e-4cb0-9248-ad7c2c23ca74)
+![Screenshot from 2024-07-08 11-22-39](https://github.com/DakshDudeja/scheduler_microservice/assets/61489137/f6a0c168-ad0f-43c0-8d1e-7874b5fd8443)
+
+
+
+
+
+
+
+
+
 
 
 
